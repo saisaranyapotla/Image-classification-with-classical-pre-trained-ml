@@ -1,0 +1,5 @@
+Test loss: 0.0286
+Test accuracy: 0.9914
+Test images: 10000
+Epochs: 5
+Batch size: 128
